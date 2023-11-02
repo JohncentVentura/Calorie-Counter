@@ -4,4 +4,4 @@
 
 # What I Learned
 * Grids and Variables in CSS
-* Importance of Typography in Web Design
+* Responsive Grid
