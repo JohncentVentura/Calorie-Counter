@@ -1,7 +1,8 @@
-# Calorie Counter
-Calorie counting is a self-monitoring technique that helps us determine how many calories (or energy) we consume daily. It often involves determining an approximate daily calorie target, also known as a maximum, and trying to stay under it throughout the day. 
+# freeCodeCamp - JavaScript Algorithms and Data Structures Certification
+## Side Project: Calorie Counter
 
-# Lessons Learned
-* Validate user input
-* Perform calculations based on user input
-* Dynamically update interface to display the results.
+Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.
+
+In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+
+### Verify this certification at: In progress...
